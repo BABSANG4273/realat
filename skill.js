@@ -1,6 +1,6 @@
-let skillTF = [1, 1, 1, 1];
-let skillbars = ['L', 'E', 'Q', 'R'];
-let skillCooldown = [0, 0, 0, 0 ];
+let skillTF = [1, 1, 1];
+let skillbars = ['L', 'E', 'Q'];
+let skillCooldown = [0, 0, 0];
 
 let lSkillsX = [];
 let lSkillsY = [];
